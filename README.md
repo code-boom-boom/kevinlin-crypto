@@ -7,9 +7,9 @@
 ## 📖 About Me
 I have been in this industry for 9️⃣+ years since when I started working on the first world-facing web in a Chinese infor-tech company just after my graduation.
 
-I loved computers and technology from a young age which was just something that interested me and I always had fun with it. I majored in the robotics engineering 🤖 in [Dalian University of Technology (大连理工大学)](https://en.dlut.edu.cn/) and after the graduation followed by some engineering career in China, took the M. D. course in computer science from the [Arkansas Tech University](https://www.atu.edu/)
+I loved computers and technology from a young age which was just something that interested me and I always had fun with it. I majored in the robotics engineering 🤖 in [Nankai University (南开大学)](https://en.nankai.edu.cn/) and after the graduation followed by some engineering career in China, took the M. D. course in computer science from the [State University of New York at Fredonia](https://www.fredonia.edu/)
 
-After the graduation, I have worked in several companies across the world 🌎. Most of times, I worked as a freelance web developer, designer, project manager, and CTO for a variety of businesses both big and small.
+After the graduation, I have worked in several companies across the world 🌎. Most of times, I worked as a freelance web developer, designer, or project manager for a variety of businesses both big and small.
 I built so many beautiful websites using modern technologies like Laravel, React, Vue and Node. I loved my job as long as I could create something people enjoy on the internet.
 
 In 2017, I happened to learn about blockchain technology 🤩 and since then I was totally absorbed in the crypto. I am passionate about everything in the crypto: Bitcoin, Ethereum, Solana, Algorand, Solidity, Rust, Pyteal and whatever... I coded any code I saw, demoed anything I learned and read any docs I bumped into.
