@@ -2,7 +2,7 @@
 [<img src="./img/banner.png" alt="👋 Hi there! I'm Philip Acho" title="👋 Hi there! I'm Philip Acho."/>](https://www.linkedin.com/in/philip-acho-b1152a228/)
 
 ## Welcome to my Github profile page!
-👋 Hi there! I'm Philip Acho, a senior fullstack developer. I love programming and I have been lucky since my hobby and my job merged together.🥳🥳🥳
+👋 Hi there! I'm Kevin Lin, a senior fullstack developer. I love programming and I have been lucky since my hobby and my job merged together.🥳🥳🥳
 
 ## 📖 About Me
 I have been in this industry for 9️⃣+ years since when I started working on the first world-facing web in a Chinese infor-tech company just after my graduation.
