@@ -43,7 +43,7 @@ Today, after years of working with a wide variety of technologies and interfacin
 ## 🤝 How To Reach Me
 You can reach out to me via email [philip_acho@outlook.com](mailto:philip_acho@outlook.com). Or here are my social accounts!
 
-[<img src="./img/linkedin.png" height="40em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/philip-acho-b1152a228/)
+[<img src="./img/linkedin.png" height="40em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/kevin-le-4ba1a019b/)
 [<img src="./img/twitter.png" height="40em" align="center" alt="Twitter" title="Twitter"/>](https://twitter.com/CofeDing)
 [<img src="./img/insta.png" height="40em" align="center" alt="Instagram" title="Instagram"/>](https://www.instagram.com/cecescrazycreams/)
 [<img src="./img/pinterest.png" height="40em" align="center" alt="Pinterest" title="Pinterest"/>](https://www.pinterest.com/misterwu2020/_saved/)
