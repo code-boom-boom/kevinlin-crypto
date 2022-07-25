@@ -7,7 +7,7 @@
 ## 📖 About Me
 I have been in this industry for 9️⃣+ years since when I started working on the first world-facing web in a Chinese infor-tech company just after my graduation.
 
-I loved computers and technology from a young age which was just something that interested me and I always had fun with it. I majored in the robotics engineering 🤖 in [Ton Duc Thang University](https://en.wikipedia.org/wiki/T%C3%B4n_%C4%90%E1%BB%A9c_Th%E1%BA%AFng_University) and after the graduation followed by some engineering career in China, took the major course in computer science from the [State University of New York at Fredonia](https://www.fredonia.edu/)
+I loved computers and technology from a young age which was just something that interested me and I always had fun with it. I majored in the robotics engineering 🤖 in [Ton Duc Thang University](https://en.wikipedia.org/wiki/T%C3%B4n_%C4%90%E1%BB%A9c_Th%E1%BA%AFng_University) and after the graduation followed by some engineering career, took the major course in computer science from the [State University of New York at Fredonia](https://www.fredonia.edu/)
 
 After the graduation, I have worked in several companies across the world 🌎. Most of times, I worked as a freelance web developer, designer, or project manager for a variety of businesses both big and small.
 I built so many beautiful websites using modern technologies like Laravel, React, Vue and Node. I loved my job as long as I could create something people enjoy on the internet.
