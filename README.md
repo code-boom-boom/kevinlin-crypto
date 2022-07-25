@@ -5,7 +5,7 @@
 👋 Hi there! I'm Kevin Lin, a senior fullstack developer. I love programming and I have been lucky since my hobby and my job merged together.🥳🥳🥳
 
 ## 📖 About Me
-I have been in this industry for 9️⃣+ years since when I started working on the first world-facing web in a Chinese infor-tech company just after my graduation.
+I have been in this industry for 9️⃣+ years since when I started working on the first world-facing web in a British company just after my graduation.
 
 I loved computers and technology from a young age which was just something that interested me and I always had fun with it. I majored in the robotics engineering 🤖 in [Ton Duc Thang University](https://en.wikipedia.org/wiki/T%C3%B4n_%C4%90%E1%BB%A9c_Th%E1%BA%AFng_University) and after the graduation followed by some engineering career, took the major course in computer science from the [State University of New York at Fredonia](https://www.fredonia.edu/)
 
