@@ -31,7 +31,7 @@ Hi there! I'm Kevin Lin, a fullstack developer. I just code here and there, and 
 ## 🤝 How To Reach Me
 You can reach out to me via email [cecescrazydreams@gmail.com](mailto:cecescrazydreams@gmail.com). Or here are my social accounts!
 
-[<img src="./img/linkedin.png" height="40em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/kevin-l-4ba1a019b/)
+[<img src="./img/linkedin.png" height="40em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/kevinlin-crypto/)
 [<img src="./img/twitter.png" height="40em" align="center" alt="Twitter" title="Twitter"/>](https://twitter.com/CofeDing)
 [<img src="./img/insta.png" height="40em" align="center" alt="Instagram" title="Instagram"/>](https://www.instagram.com/cecescrazycreams/)
 [<img src="./img/pinterest.png" height="40em" align="center" alt="Pinterest" title="Pinterest"/>](https://www.pinterest.com/misterwu2020/_saved/)
